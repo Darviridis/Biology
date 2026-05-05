@@ -13,3 +13,5 @@ Membrane Receptors https://youtu.be/8Otn9DVkm-g?si=EqNDk24oufA68t3z
 Ligand Gated Ion Channels https://youtu.be/Pl7nzXaVqak?si=_jno2IvsKNQuZY8H
 G Protein Coupled Receptors https://youtu.be/ZBSo_GFN3qI?si=cKcFK6v9M3GB9bpX
 Enzyme Linked Receptors https://youtu.be/kaoRrzakjGE?si=zgvFxZfePWGLcTdG
+
+Cell membrane https://en.wikipedia.org/wiki/Cell_membrane
