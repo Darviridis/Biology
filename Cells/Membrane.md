@@ -29,6 +29,7 @@ Enzyme Linked Receptors https://youtu.be/kaoRrzakjGE?si=zgvFxZfePWGLcTdG
 ## Articles
 
 Cell membrane https://en.wikipedia.org/wiki/Cell_membrane
+Cell surface receptor https://en.wikipedia.org/wiki/Cell_surface_receptor 
 
 ## Projects
 
