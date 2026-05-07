@@ -28,5 +28,5 @@ Enzyme Linked Receptors https://youtu.be/kaoRrzakjGE?si=zgvFxZfePWGLcTdG
 
 Cell membrane https://en.wikipedia.org/wiki/Cell_membrane
 
-<img width="960" height="1126" alt="Cell_membrane_detailed_diagram_4 svg" src="https://github.com/user-attachments/assets/9d71469b-7d44-4883-90b9-0c64e6cc9539" />
+Project: [Cell-Membrane-Lipid-Composition-Analysis](https://github.com/Darviridis/Cell-Membrane-Lipid-Composition-Analysis)
 
