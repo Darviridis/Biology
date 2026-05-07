@@ -5,3 +5,5 @@ Introduction to Atoms and Molecules https://youtu.be/EXCa58rcIKc?si=eQh-EtGT_Vn9
 Molecules, crystals, and diatomic elements https://youtu.be/thXilnp5UNQ?si=EVifvcV6Wofyb4_y 
 
 Compounds and chemical formulas https://youtu.be/36nlbUdRvUM?si=5FvzPuz6AVHRCqHk 
+
+Elemental building blocks of biological molecules https://youtu.be/vnsrBHkYTq4?si=bCOHAN7ZvYLiyNnY 
