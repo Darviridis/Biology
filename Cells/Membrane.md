@@ -1,4 +1,4 @@
-I studied a membrane functions by these videos:
+## Videos
 
 Cell membrane introduction https://youtu.be/QpcACa39YtA?si=UzRW2k706rYNU5xp
 
@@ -26,7 +26,11 @@ G Protein Coupled Receptors https://youtu.be/ZBSo_GFN3qI?si=cKcFK6v9M3GB9bpX
 
 Enzyme Linked Receptors https://youtu.be/kaoRrzakjGE?si=zgvFxZfePWGLcTdG
 
+## Articles
+
 Cell membrane https://en.wikipedia.org/wiki/Cell_membrane
 
-Project: [Cell-Membrane-Lipid-Composition-Analysis](https://github.com/Darviridis/Cell-Membrane-Lipid-Composition-Analysis)
+## Projects
+
+[Cell-Membrane-Lipid-Composition-Analysis](https://github.com/Darviridis/Cell-Membrane-Lipid-Composition-Analysis)
 
